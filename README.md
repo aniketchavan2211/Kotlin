@@ -1,5 +1,7 @@
 ## Kotlin
 
+### Installations
+
 **Termux Users only**
 
 **Note: Update repo before installing.**
@@ -36,5 +38,3 @@ java -jar myapp.jar
 `-include-runtime` :
 `-d myapp.jar` :
 `java -jar myapp.jar` : this run kotlin program
-
-# Kotlin
