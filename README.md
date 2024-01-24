@@ -33,7 +33,8 @@ java -jar myapp.jar
 
 `kotlinc` : is an kotlin command. if just type `kotlinc` then an interactive kotlin shell appear.
 `myapp.kt` : is script name, that we passing kotlin script.
-`-include-runtime` : 
-`-d myapp.jar` : 
+`-include-runtime` :
+`-d myapp.jar` :
 `java -jar myapp.jar` : this run kotlin program
+
 # Kotlin
